@@ -2,4 +2,13 @@
     <string name="app_name">About Me</string>
     <string name="name">Praveen Dias</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Praveen.I love programming.
+
+    \n\nI can develop Android Applications with Kotlin.
+
+    \n\nI am experienced in PHP and Javascript-related web development technologies. You may see my portfolio on my website. My current scope of work involves PHP and Javascript development.
+
+    \n\nMy clients and employees are genuinely happy with the value I am adding to their lives as a developer. Their positive feedback keeps me satisfied and encourages me to deliver even more value to them. I take my work seriously and strive to realize the best of myself as a developer or programmer. To this date, the negative feedback I got from my clients and employees is very rare. (Yes, there were some incidents, get in touch with me to know more; praveen@range.quest)
+
+    \n\nFor most people, computer programming does not sound very interesting. For me, programming and development is a passion I have been chasing for over 15 years. Most recently, my work landed me on Range Quest where I am focused on PHP, Javascript, and React. I guess you could say I am living the dream.</string>
 </resources>
